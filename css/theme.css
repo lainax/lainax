@@ -1,0 +1,11 @@
+:root{
+	--main-color: rgb(210, 50, 100);
+	--header-color: rgb(255, 240, 224);
+	
+	--main-color-trans: rgba(210, 50, 100, 0.15);
+	--background-color: rgb(255, 250, 240);
+	
+	--text-color: #2f2f2f;
+	--hover-color: rgb(210, 50, 100);
+	--select-color: white;
+}
